@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLExport>
+  <timestamp><![CDATA[08/31/2016 09:45:17]]></timestamp>
+  <tables>
+    <table>
+      <name><![CDATA[blocks]]></name>
+      <rows>
+        <row>
+          <block_id><![CDATA[1]]></block_id>
+          <block_txt_id><![CDATA[header]]></block_txt_id>
+          <controller><![CDATA[common/header]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[2]]></block_id>
+          <block_txt_id><![CDATA[header_bottom]]></block_txt_id>
+          <controller><![CDATA[common/header_bottom]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[3]]></block_id>
+          <block_txt_id><![CDATA[column_left]]></block_txt_id>
+          <controller><![CDATA[common/column_left]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[4]]></block_id>
+          <block_txt_id><![CDATA[content_top]]></block_txt_id>
+          <controller><![CDATA[common/content_top]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[5]]></block_id>
+          <block_txt_id><![CDATA[content_bottom]]></block_txt_id>
+          <controller><![CDATA[common/content_bottom]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[6]]></block_id>
+          <block_txt_id><![CDATA[column_right]]></block_txt_id>
+          <controller><![CDATA[common/column_right]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[7]]></block_id>
+          <block_txt_id><![CDATA[footer_top]]></block_txt_id>
+          <controller><![CDATA[common/footer_top]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[8]]></block_id>
+          <block_txt_id><![CDATA[footer]]></block_txt_id>
+          <controller><![CDATA[common/footer]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[9]]></block_id>
+          <block_txt_id><![CDATA[category]]></block_txt_id>
+          <controller><![CDATA[blocks/category]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[10]]></block_id>
+          <block_txt_id><![CDATA[manufacturer]]></block_txt_id>
+          <controller><![CDATA[blocks/manufacturer]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[11]]></block_id>
+          <block_txt_id><![CDATA[content]]></block_txt_id>
+          <controller><![CDATA[blocks/content]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[12]]></block_id>
+          <block_txt_id><![CDATA[latest]]></block_txt_id>
+          <controller><![CDATA[blocks/latest]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[13]]></block_id>
+          <block_txt_id><![CDATA[language]]></block_txt_id>
+          <controller><![CDATA[blocks/language]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[14]]></block_id>
+          <block_txt_id><![CDATA[currency]]></block_txt_id>
+          <controller><![CDATA[blocks/currency]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[15]]></block_id>
+          <block_txt_id><![CDATA[cart]]></block_txt_id>
+          <controller><![CDATA[blocks/cart]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[16]]></block_id>
+          <block_txt_id><![CDATA[order_summary]]></block_txt_id>
+          <controller><![CDATA[blocks/order_summary]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[17]]></block_id>
+          <block_txt_id><![CDATA[html_block]]></block_txt_id>
+          <controller><![CDATA[blocks/html_block]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[18]]></block_id>
+          <block_txt_id><![CDATA[bestsellers]]></block_txt_id>
+          <controller><![CDATA[blocks/bestseller]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 03:06:16]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[19]]></block_id>
+          <block_txt_id><![CDATA[featured]]></block_txt_id>
+          <controller><![CDATA[blocks/featured]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[20]]></block_id>
+          <block_txt_id><![CDATA[listing_block]]></block_txt_id>
+          <controller><![CDATA[blocks/listing_block]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[22]]></block_id>
+          <block_txt_id><![CDATA[special]]></block_txt_id>
+          <controller><![CDATA[blocks/special]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[23]]></block_id>
+          <block_txt_id><![CDATA[banner_block]]></block_txt_id>
+          <controller><![CDATA[blocks/banner_block]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[24]]></block_id>
+          <block_txt_id><![CDATA[credit_cards]]></block_txt_id>
+          <controller><![CDATA[blocks/credit_cards]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[25]]></block_id>
+          <block_txt_id><![CDATA[newsletter_signup]]></block_txt_id>
+          <controller><![CDATA[blocks/newsletter_signup]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[26]]></block_id>
+          <block_txt_id><![CDATA[search]]></block_txt_id>
+          <controller><![CDATA[blocks/search]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 03:06:16]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[27]]></block_id>
+          <block_txt_id><![CDATA[menu]]></block_txt_id>
+          <controller><![CDATA[blocks/menu]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[28]]></block_id>
+          <block_txt_id><![CDATA[breadcrumbs]]></block_txt_id>
+          <controller><![CDATA[blocks/breadcrumbs]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[29]]></block_id>
+          <block_txt_id><![CDATA[account]]></block_txt_id>
+          <controller><![CDATA[blocks/account]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[30]]></block_id>
+          <block_txt_id><![CDATA[custom_form_block]]></block_txt_id>
+          <controller><![CDATA[blocks/custom_form_block]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-08-31 10:12:44]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[31]]></block_id>
+          <block_txt_id><![CDATA[customer]]></block_txt_id>
+          <controller><![CDATA[blocks/customer]]></controller>
+          <date_added><![CDATA[2016-03-24 02:52:56]]></date_added>
+          <date_modified><![CDATA[2016-03-24 02:52:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[32]]></block_id>
+          <block_txt_id><![CDATA[products_cat_block]]></block_txt_id>
+          <controller><![CDATA[blocks/products_category]]></controller>
+          <date_added><![CDATA[2016-03-24 03:05:03]]></date_added>
+          <date_modified><![CDATA[2016-03-25 01:06:56]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[33]]></block_id>
+          <block_txt_id><![CDATA[chat_block]]></block_txt_id>
+          <controller><![CDATA[blocks/chat_block]]></controller>
+          <date_added><![CDATA[2016-03-24 03:05:53]]></date_added>
+          <date_modified><![CDATA[2016-03-24 03:05:53]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[38]]></block_id>
+          <block_txt_id><![CDATA[chat_block]]></block_txt_id>
+          <controller><![CDATA[blocks/chat_block]]></controller>
+          <date_added><![CDATA[2016-08-09 16:19:32]]></date_added>
+          <date_modified><![CDATA[2016-08-09 16:19:32]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[39]]></block_id>
+          <block_txt_id><![CDATA[refined_search]]></block_txt_id>
+          <controller><![CDATA[blocks/refined_search]]></controller>
+          <date_added><![CDATA[2016-08-20 11:46:50]]></date_added>
+          <date_modified><![CDATA[2016-08-20 11:46:50]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[40]]></block_id>
+          <block_txt_id><![CDATA[refine_category]]></block_txt_id>
+          <controller><![CDATA[blocks/refine_category]]></controller>
+          <date_added><![CDATA[2016-08-20 11:46:50]]></date_added>
+          <date_modified><![CDATA[2016-08-20 11:46:50]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[41]]></block_id>
+          <block_txt_id><![CDATA[refine_manufacturer]]></block_txt_id>
+          <controller><![CDATA[blocks/refine_manufacturer]]></controller>
+          <date_added><![CDATA[2016-08-20 11:46:50]]></date_added>
+          <date_modified><![CDATA[2016-08-20 11:46:50]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[42]]></block_id>
+          <block_txt_id><![CDATA[refine_tag]]></block_txt_id>
+          <controller><![CDATA[blocks/refine_tag]]></controller>
+          <date_added><![CDATA[2016-08-20 11:46:50]]></date_added>
+          <date_modified><![CDATA[2016-08-20 11:46:50]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[43]]></block_id>
+          <block_txt_id><![CDATA[refine_price]]></block_txt_id>
+          <controller><![CDATA[blocks/refine_price]]></controller>
+          <date_added><![CDATA[2016-08-20 11:46:50]]></date_added>
+          <date_modified><![CDATA[2016-08-20 11:46:50]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[44]]></block_id>
+          <block_txt_id><![CDATA[viewed_products]]></block_txt_id>
+          <controller><![CDATA[viewed_products/viewed_products]]></controller>
+          <date_added><![CDATA[2016-08-26 08:35:32]]></date_added>
+          <date_modified><![CDATA[2016-08-26 08:35:32]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[45]]></block_id>
+          <block_txt_id><![CDATA[blog_popular]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_popular]]></controller>
+          <date_added><![CDATA[2016-08-28 20:27:44]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[46]]></block_id>
+          <block_txt_id><![CDATA[blog_search]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_search]]></controller>
+          <date_added><![CDATA[2016-08-28 20:27:44]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[47]]></block_id>
+          <block_txt_id><![CDATA[blog_author]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_author]]></controller>
+          <date_added><![CDATA[2016-08-28 20:27:44]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[48]]></block_id>
+          <block_txt_id><![CDATA[blog_top_menu]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_top_menu]]></controller>
+          <date_added><![CDATA[2016-08-28 20:27:44]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[51]]></block_id>
+          <block_txt_id><![CDATA[blog_active]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_active]]></controller>
+          <date_added><![CDATA[2016-08-28 20:49:24]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[52]]></block_id>
+          <block_txt_id><![CDATA[blog_archive]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_archive]]></controller>
+          <date_added><![CDATA[2016-08-28 20:49:24]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[53]]></block_id>
+          <block_txt_id><![CDATA[blog_category]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_category]]></controller>
+          <date_added><![CDATA[2016-08-28 20:49:24]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[54]]></block_id>
+          <block_txt_id><![CDATA[blog_feed]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_feed]]></controller>
+          <date_added><![CDATA[2016-08-28 20:49:24]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[55]]></block_id>
+          <block_txt_id><![CDATA[blog_latest]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_latest]]></controller>
+          <date_added><![CDATA[2016-08-28 20:49:24]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[56]]></block_id>
+          <block_txt_id><![CDATA[blog_login]]></block_txt_id>
+          <controller><![CDATA[blocks/blog_login]]></controller>
+          <date_added><![CDATA[2016-08-28 20:49:24]]></date_added>
+          <date_modified><![CDATA[2016-08-28 20:49:24]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[57]]></block_id>
+          <block_txt_id><![CDATA[product_slider]]></block_txt_id>
+          <controller><![CDATA[blocks/product_slider]]></controller>
+          <date_added><![CDATA[2016-08-28 21:03:25]]></date_added>
+          <date_modified><![CDATA[2016-08-28 21:03:25]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[58]]></block_id>
+          <block_txt_id><![CDATA[map_block]]></block_txt_id>
+          <controller><![CDATA[blocks/map]]></controller>
+          <date_added><![CDATA[2016-08-28 21:22:59]]></date_added>
+          <date_modified><![CDATA[2016-08-28 21:22:59]]></date_modified>
+        </row>
+        <row>
+          <block_id><![CDATA[59]]></block_id>
+          <block_txt_id><![CDATA[comment_block]]></block_txt_id>
+          <controller><![CDATA[blocks/comment]]></controller>
+          <date_added><![CDATA[2016-08-28 21:22:59]]></date_added>
+          <date_modified><![CDATA[2016-08-28 21:22:59]]></date_modified>
+        </row>
+      </rows>
+    </table>
+  </tables>
+</XMLExport>
